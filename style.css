@@ -148,9 +148,18 @@ section{
     grid-template-columns: repeat(12, 1fr);
     grid-auto-rows: 98px;
 }
+section.title{
+    width: auto;
+    font-size: 120px;
+    display: flex;
+}
  div{
     font-weight: 100;
     transition: font-weight 0.4s, font-family .1s;
+}
+.title  div{
+    font-weight: 100;
+    transition: font-weight 0.4s, font-family .4s;
 }
 
 #bgvideo {
