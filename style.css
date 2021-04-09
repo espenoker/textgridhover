@@ -1,3 +1,132 @@
+@font-face {
+    font-family: 'ABC Arizona Sans Trial';
+    src: url('fonts/ABCArizonaSans-Bold-Trial.woff') format('woff');
+    font-weight: 700;
+ }
+@font-face {
+    font-family: 'ABC Arizona Sans Trial';
+    src: url('fonts/ABCArizonaSans-Medium-Trial.woff') format('woff');
+    font-weight: 500;
+ }
+@font-face {
+    font-family: 'ABC Arizona Sans Trial';
+    src: url('fonts/ABCArizonaSans-Regular-Trial.woff') format('woff');
+    font-weight: 400;
+ }
+ @font-face {
+    font-family: 'ABC Arizona Sans Trial';
+    src: url('fonts/ABCArizonaSans-Light-Trial.woff') format('woff');
+    font-weight: 300;
+ }
+ @font-face {
+    font-family: 'ABC Arizona Sans Trial';
+    src: url('fonts/ABCArizonaSans-Thin-Trial.woff') format('woff');
+    font-weight: 100;
+ }
+ @font-face {
+    font-family: 'ABC Arizona Flare Trial';
+    src: url('fonts/ABCArizonaFlare-Bold-Trial.woff') format('woff');
+    font-weight: 700;
+ }
+@font-face {
+    font-family: 'ABC Arizona Flare Trial';
+    src: url('fonts/ABCArizonaFlare-Medium-Trial.woff') format('woff');
+    font-weight: 500;
+ }
+@font-face {
+    font-family: 'ABC Arizona Flare Trial';
+    src: url('fonts/ABCArizonaFlare-Regular-Trial.woff') format('woff');
+    font-weight: 400;
+ }
+ @font-face {
+    font-family: 'ABC Arizona Flare Trial';
+    src: url('fonts/ABCArizonaFlare-Light-Trial.woff') format('woff');
+    font-weight: 300;
+ }
+ @font-face {
+    font-family: 'ABC Arizona Flare Trial';
+    src: url('fonts/ABCArizonaFlare-Thin-Trial.woff') format('woff');
+    font-weight: 100;
+ }
+
+ @font-face {
+    font-family: 'ABC Arizona Mix Trial';
+    src: url('fonts/ABCArizonaMix-Bold-Trial.woff') format('woff');
+    font-weight: 700;
+ }
+@font-face {
+    font-family: 'ABC Arizona Mix Trial';
+    src: url('fonts/ABCArizonaMix-Medium-Trial.woff') format('woff');
+    font-weight: 500;
+ }
+@font-face {
+    font-family: 'ABC Arizona Mix Trial';
+    src: url('fonts/ABCArizonaMix-Regular-Trial.woff') format('woff');
+    font-weight: 400;
+ }
+ @font-face {
+    font-family: 'ABC Arizona Mix Trial';
+    src: url('fonts/ABCArizonaMix-Light-Trial.woff') format('woff');
+    font-weight: 300;
+ }
+ @font-face {
+    font-family: 'ABC Arizona Mix Trial';
+    src: url('fonts/ABCArizonaMix-Thin-Trial.woff') format('woff');
+    font-weight: 100;
+ }
+
+ @font-face {
+    font-family: 'ABC Arizona Text Trial';
+    src: url('fonts/ABCArizonaText-Bold-Trial.woff') format('woff');
+    font-weight: 700;
+ }
+@font-face {
+    font-family: 'ABC Arizona Text Trial';
+    src: url('fonts/ABCArizonaText-Medium-Trial.woff') format('woff');
+    font-weight: 500;
+ }
+@font-face {
+    font-family: 'ABC Arizona Text Trial';
+    src: url('fonts/ABCArizonaText-Regular-Trial.woff') format('woff');
+    font-weight: 400;
+ }
+ @font-face {
+    font-family: 'ABC Arizona Text Trial';
+    src: url('fonts/ABCArizonaText-Light-Trial.woff') format('woff');
+    font-weight: 300;
+ }
+ @font-face {
+    font-family: 'ABC Arizona Text Trial';
+    src: url('fonts/ABCArizonaText-Thin-Trial.woff') format('woff');
+    font-weight: 100;
+ }
+
+ @font-face {
+    font-family: 'ABC Arizona Serif Trial';
+    src: url('fonts/ABCArizonaSerif-Bold-Trial.woff') format('woff');
+    font-weight: 700;
+ }
+@font-face {
+    font-family: 'ABC Arizona Serif Trial';
+    src: url('fonts/ABCArizonaSerif-Medium-Trial.woff') format('woff');
+    font-weight: 500;
+ }
+@font-face {
+    font-family: 'ABC Arizona Serif Trial';
+    src: url('fonts/ABCArizonaSerif-Regular-Trial.woff') format('woff');
+    font-weight: 400;
+ }
+ @font-face {
+    font-family: 'ABC Arizona Serif Trial';
+    src: url('fonts/ABCArizonaSerif-Light-Trial.woff') format('woff');
+    font-weight: 300;
+ }
+ @font-face {
+    font-family: 'ABC Arizona Serif Trial';
+    src: url('fonts/ABCArizonaSerif-Thin-Trial.woff') format('woff');
+    font-weight: 100;
+ }
+
 body{
     margin: 0;
     font-family: 'ABC Arizona Sans Trial', sans-serif;

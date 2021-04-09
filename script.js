@@ -11,7 +11,7 @@ document.addEventListener("mousemove", function (event) {
 
       // div.style.transform = "scale(" + score + ")"
         div.style.fontWeight = 100 + (100 * Math.floor(8 * score))
-        if (score < .9) {
+        if (score < .95) {
             div.style.fontFamily = "ABC Arizona Sans Trial, sans-serif"
         }
         if (score < .8) {
