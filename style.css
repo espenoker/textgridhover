@@ -153,6 +153,20 @@ section.title{
     font-size: 120px;
     display: flex;
 }
+section.position{
+   width: auto;
+
+   display: flex;
+   flex-direction: column;
+}
+.position .Line{
+   width: auto;
+   font-size: 120px;
+   display: flex;
+   flex-direction: row;
+   margin: 20px 0;
+   justify-content: center;
+}
  div{
     font-weight: 100;
     transition: font-weight 0.4s, font-family .1s;
@@ -172,3 +186,13 @@ section.title{
     z-index: -1;
     opacity: .75;
   }
+  #bgimg {
+   position: fixed;
+   left: -290px;
+   top: 0;
+   /* min-width: 100%; */
+   /* min-height: 100%; */
+   z-index: -1;
+   opacity: .75;
+   width: 100%;
+ }
